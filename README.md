@@ -156,4 +156,6 @@ See [`docs/looker_setup.md`](docs/looker_setup.md) for full instructions to conn
 
 ## 📄 License
 
+Réalisé par Fouad Moutairou
+
 MIT — free to use, fork, and adapt.
